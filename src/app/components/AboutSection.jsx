@@ -9,12 +9,10 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li>Express</li>
-        <li>Next.js</li>
-        <li>Django</li>
-        <li>Flask</li>
-        <li>MySQL</li>
-        <li>MongoDB</li>
+        <li>Git - VsCode - Docker </li>
+        <li>Database - MySQL - MongoDB </li>
+        <li>JavaScript - Express - Next.js </li>
+        <li>Python - Django - FastAPI - Flask </li>
       </ul>
     ),
   },
@@ -23,9 +21,9 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Fatec Itaquera</li>
-        <li>Etec Tiquatira</li>
-        <li>São Paulo Tech School</li>
+        <li>Software Development - technologist degree - Fatec Itaquera</li>
+        <li>Chemistry - Technical course - Etec Tiquatira</li>
+        <li>Mechatronics - Technical course - Etec Marthin Luther King</li>
       </ul>
     ),
   },
@@ -34,8 +32,8 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>AWS Cloud Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
+        <li>Oracle Next Education - Alura + Oracle</li>
+        <li>Google Data Analytics - Google Professional Certificate</li>
       </ul>
     ),
   },
@@ -58,13 +56,11 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a Software Developer, currently a student at Fatec Itaquera, studying algorithms, data analisys and programming.<br /> <br />
-
-            I am also on the technical course in Chemistry at ETEC Tiquatira. <br /> <br />
-
-            I work as Customer Experience at Banco Pan at Atento. <br /> <br />
-
-            Last but not least, student at ONE - Oracle Next Education Oracle + Alura.
+          I am Daniel Victor de Oliveira Rodrigues, I am 27 years old and I am passionate about software development. 
+          I work at Banco Pan within Atento, where I have the valuable opportunity to work in customer service, which allows me to improve my problem-solving and communication skills. 
+          I study programming, algorithms and data analysis at Fatec Itaquera, where I am enhancing my skills. 
+          I also study Chemistry at ETEC Tiquatira, where I am expanding my knowledge. 
+          I am dedicated to continuous learning and I am eager to progress to the next stage of my career and achieve my first opportunity as a software developer.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
