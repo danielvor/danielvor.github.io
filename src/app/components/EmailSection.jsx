@@ -37,6 +37,9 @@ const EmailSection = () => {
       console.log("Message sent.");
       setEmailSubmitted(true);
     }
+    else {
+      console.error("Message not sent.");
+    }
   };
 
   return (
