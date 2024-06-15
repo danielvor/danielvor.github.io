@@ -1,8 +1,8 @@
-👋 Hello, I'm Daniel Rodrigues, a Back-End Developer based in São Paulo, Brazil. I'm currently studying Multiplatform Software Development at Fatec Itaquera and I'm passionate about algorithms, programming and data structures in Python, JavaScript, C and C#. I have practical experience in projects involving Django, Express and React, and I am currently exploring the wonders of FastAPI.
+👋 Hello, I'm Daniel Rodrigues, a Back-End Developer based in São Paulo, Brazil. I'm currently studying Multiplatform Software Development at Fatec Itaquera and I'm focused in learn Go,PHP, JavaScript and Python for build applications. I have practical experience in personal projects involving many frameworks.
 
-🚀 I am committed to continuous learning and am expanding my knowledge of Data Analysis through the Google Career Certificates program, where I am exploring spreadsheets, SQL, R programming and Tableau.
+🚀 I am committed to continuous learning and am expanding my knowledge of IT.
 
-🌐 Check out my portfolio at [dunodaniel.github.io](https://dunodaniel.github.io) and feel free to get in touch via email: this.daniel@outlook.com.
+🌐 Check out my portfolio at [danielvor.github.io](https://danielvor.github.io) and feel free to get in touch via email: daniel.rodrigues46@fatec.sp.gov.br
 
 # Experience
 - Teleperformance: Customer Service
